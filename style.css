@@ -1,0 +1,62 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html,body {font-family:"Noto Serif TC",serif;font-size:15px;line-height:5}
+
+	
+p
+{
+margin-top: 0px;
+margin-bottom: 0px;
+} 
+
+	body {
+	font-family: "Helvetica";
+	font-size: 15px;
+	font-style: normal;
+	text-align: left aligned;
+	column-count: 1;
+	line-height: 20px;
+	letter-spacing: 0.6px;
+	margin-left: 100px;
+	color:  black;
+	margin-top: 10px;
+	margin-bottom: 25px;
+	width: 600px;
+}
+h1 {
+	font-family: "Garamond";
+	font-size:30px;
+	font-style: bold;
+	line-height: 50px;
+	letter-spacing: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	margin-top: 30px;
+	color: rgb(27.5,27.5,200);
+}
+h2 {
+	font-family: "Helvetica";
+	font-size: 24px;
+	font-weight: bolder;
+	line-height: 10px;
+	letter-spacing: 0px;
+	margin-left: 0px;
+	text-transform: uppercase;
+	color: rgb(200,27.5,27.5);
+	margin-top: 42px;
+	margin-bottom: 5px;
+}
+h3 {
+	font-family: "Helvetica";
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 11px;
+	letter-spacing: 0.8px;
+	margin-left: 0px;
+	text-transform: titlecase;
+	color: rgb(102,102,180);
+	margin-top: 20px;
+	margin-bottom: 8px;
+
+}
